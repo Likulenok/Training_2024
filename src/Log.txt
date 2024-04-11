@@ -1,0 +1,10 @@
+
+2024-04-11 21:39:33.752831100: 1712860768645 [admin] INFO: Login succesful
+2024-04-11 21:39:44.439995: 1712860779005 [admin] INFO: Login succesful
+2024-04-11 21:49:19.819475400: 1712861353718 [admin] INFO: Login succesful
+2024-04-11 21:49:23.529520700: 1712861353718 [admin] INFO: Logout
+2024-04-11 22:52:32.496629400: 1712865152456 [UNKNOWN] ERROR: Failed to execute command ASHEDULE: Unknown person. Please log in.
+2024-04-11 22:53:22.105802500: 1712865202065 [UNKNOWN] ERROR: Failed to execute command ASHEDULE: Unknown person. Please log in.
+2024-04-11 23:03:43.840869400: 1712865823795 [UNKNOWN] ERROR: Failed to execute command ASHEDULE: Unknown person. Please log in.
+2024-04-11 23:03:55.818088300: 1712865835776 [UNKNOWN] ERROR: Failed to execute command ASHEDULE: Unknown person. Please log in.
+2024-04-11 23:04:05.364617100: 1712865845325 [UNKNOWN] ERROR: Failed to execute command ASHEDULE: Unknown person. Please log in.
